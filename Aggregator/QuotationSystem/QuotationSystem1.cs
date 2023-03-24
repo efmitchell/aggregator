@@ -9,10 +9,12 @@ public class QuotationSystem1 : IQuotationSystem
         
     }
 
-    public Task<dynamic> GetPriceAsync(RiskData riskData)
+    public Task<dynamic> GetPriceAsync(RiskData riskData) // Not async but would would update this to be if call from external service
     {
         //Omitted - Call to an external service
         //var response = _someExternalService.PostHttpRequest(requestData);
+        // Perhaps worth considering caching to reduce requests to quotation system? 
+        // May be worth implementing a backoff or circuit breaker? 
 
         dynamic response = new ExpandoObject();
         response.Price = 123.45M;
