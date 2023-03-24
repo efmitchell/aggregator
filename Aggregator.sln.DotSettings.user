@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6702002e_002Dc3b6_002D4cf8_002Dbe64_002D13b9d7741cd6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPriceAsync_WithValidRequest_ReturnsBestPrice" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithValidRequest_ReturnsBestPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithMissingLastName_ReturnsError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithMissingValue_ReturnsError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithNoValidQuotes_ReturnsError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithMissingMake_ReturnsError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithSomeValidAndInvalidResponses_ReturnsBestPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithEqualPrices_ReturnsFirstBestPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithValidRiskData_ReturnsBestPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithMissingFirstName_ReturnsError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.RiskDataTests.Validate_WithValidData_ReturnsTrueAndNoError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.RiskDataTests.Validate_WithMissingFirstName_ReturnsFalseAndError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.RiskDataTests.Validate_WithMissingLastName_ReturnsFalseAndError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.RiskDataTests.Validate_WithMissingValue_ReturnsFalseAndError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.RiskDataTests.Validate_WithMissingMake_ReturnsFalseAndError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.RiskDataTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.ServiceCollectionExtensionsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b02029c1_002D3e89_002D47af_002D8a80_002D8476daadf15a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithNullRiskData_ReturnsError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithValidRequest_ReturnsBestPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::93B6E9BC-2063-4B5F-8823-49B6385C3C63::net6.0::Aggregator.Tests.PriceEngineTests.GetPriceAsync_WithNoValidQuotes_ReturnsError&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
